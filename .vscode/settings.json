@@ -1,0 +1,5 @@
+{
+    "editor.acceptSuggestionOnEnter": "on",
+    "dbt.queryLimit": 500,
+    "docwriter.style": "Auto-detect"
+}
